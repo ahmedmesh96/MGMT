@@ -1,0 +1,89 @@
+{
+    "write_your_fullname":"Tam Adınızı Yazın",
+    "write_your_phonenumber":"Telefon Numaranızı Yazın",
+    "write_your_email":"E-postanızı yazın",
+    "personal_information":"Kişisel Bilgi",
+    "reservation_information":"Rezervasyon Bilgileri",
+    "reservation_occasion":"Rezervasyon vesilesiyle",
+    "birthday":"Doğum günü",
+    "graduation_event":"Mezuniyet etkinliği",
+    "marriage":"Evlilik",
+    "engagement":"Nişanlanmak",
+    "birth":"Doğum",
+    "Receive_position":"Bir pozisyon al",
+    "Other":"Diğer",
+    "pick_your_time":"Zamanınızı Seçin!",
+    "am":"AM",
+    "pm":"PM",
+    "how_many_guests":"Kaç misafir?",
+    "any_special_requests":"Herhangi bir özel istek",
+    "late":"Rezervasyona geç kalmanız durumunda rezervasyonunuz otomatik olarak iptal edilecektir.",
+    "book_a_table":"Bir masa rezervasyonu",
+    "thanks":"Yakında size bir rezervasyon kartı gönderilecek",
+    "visit_us":"Bizi ziyaret et",
+    "location":"Konum",
+    "location_address":"Dijlah Köyü, Bağdat,\n10075 Irak",
+    "reserve_a_table":"Masa Rezerve etmek",
+    "menus":"Menüler",
+    "cold_appetizers": "Soğuk Mezeler",
+    "morning_breakfast": "Sabah kahvaltısı",
+    "salads": "Salatalar",
+    "hot_apetizers": "Sıcak Mezeler",
+    "soups": "Çorbalar",
+    "turkish_pide": "Türk Pidesi",
+    "our_signature": "Konya'nın Yemeği",
+    "durum":"Dürüm",
+    "turkish_grill": "Türk Mangal",
+    "side_dishes": "Garnitürler",
+    "diet_food": "Diyet yemeği",
+    "hot_beverages": "Sıcak içecekler",
+    "hot_tea": "Sıcak çay",
+    "hot_coffee": "Sıcak kahve",
+    "cold_beverages": "Soğuk İçecekler",
+    "cocktails": "Kokteyller",
+    "serbet": "Şerbet",
+    "fresh_juice":  "Taze meyve suyu",
+    "iced_tea_and_coffee": "Buzlu Çay ve Kahve",
+    "mevlana_shak": "Mevlana Şak",
+    "soft_drink": "Meşrubat",
+    "dessert": "Tatlı",
+    "shisha": "Nargile",
+    "classic_shisha": "Klasik Nargile",
+    "premium_shisha": "Premium Nargile",
+    "natural_shisha": "Doğal Nargile",
+    "Baklawa": "Baklava",
+    "fill_all_feild":"Tüm alanları doldurun",
+    "save_the_card_to_the_gallery":"Kartı fotoğraf galerisine kaydedin",
+    "table_no":"Masa numarası",
+    "date_of_reservation":"Rezervasyon Tarihi",
+    "are_you_sure":"Silmek istediğine emin misin?",
+    "search_by_phone_number":"Telefon numarasına göre ara",
+    "new_reservation":"Yeni Rezervasyon",
+    "a_reservation_request_was_made_for_a_table":"Yeni Bir masa için rezervasyon talebinde bulunuldu",
+    "the_table_has_not_been_reserved":"Masa rezerve edilmedi",
+    "sorry_all_tables_have_been_reserved":"Üzgünüz, tüm masalar rezerve edildi",
+    "sorry":"Özür dileriz ",
+    "confirme":"Rezervasyonunuz bir tarihte sabitlendi  ",
+    "new_reservations":"Yeni Rezervasyonlar",
+    "search":"Ara",
+    "pinned_reservations":"Sabitlenmiş rezervasyonlar",
+    "archive":"Arşiv",
+    "reserve_now":"Şimdi rezervasyon yap",
+    "hour":"Saat",
+    "minute":"Dakika",
+    "here":"Burada"
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+}

@@ -1,0 +1,88 @@
+{
+    "write_your_fullname":"اكتب اسمك الكامل",
+    "write_your_phonenumber":"اكتب رقم هاتفك",
+    "write_your_email":"اكتب بريدك الإلكتروني",
+    "personal_information":"معلومات شخصية",
+    "reservation_information":"معلومات الحجز",
+    "reservation_occasion":"مناسبة الحجز",
+    "birthday":"عيد ميلاد",
+    "graduation_event":"حدث التخرج",
+    "marriage":"زواج",
+    "engagement":"ارتباط",
+    "birth":"ولادة",
+    "Receive_position":"الحصول على منصب",
+    "Other":"آخرى",
+    "pick_your_time":" حدد وقت الحضور !",
+    "am":"صباحا",
+    "pm":"مساءً",
+    "how_many_guests":"عدد الضيوف",
+    "any_special_requests":"أي طلبات خاصة",
+    "late":"في حال التأخر عن موعد للحجز يلغى الحجز بشكل تلقائي",
+    "book_a_table":"احجز طاولة",
+    "thanks":"سيتم قريبا إرسال بطاقة الحجز إليك",
+    "visit_us":"زورنا",
+    "location":"موقع",
+    "location_address":"قرية دجله, بغداد,\n١٠٠٧٥ عراق",
+    "reserve_a_table":"حجز طاولة",
+    "menus":"القوائم",
+    "cold_appetizers":"المقبلات الباردة",
+    "morning_breakfast":"الافطار الصباحي",
+    "salads":"السلطات",
+    "hot_apetizers":"المقبلات الحارة",
+    "soups":"الحساء",
+    "turkish_pide":"المعجنات التركية",
+    "our_signature":"لمسة كونيا",
+    "durum":"Dürüm",
+    "turkish_grill":"المنقل التركي ",
+    "side_dishes":"الاطباق الجانبية",
+    "diet_food":"الدايت",
+    "hot_beverages":"المشروبات الساخنة",
+    "hot_tea":"الشاي",
+    "hot_coffee":"القهوة الحارة",
+    "cold_beverages":"المشروبات الباردة",
+    "cocktails":"الكوكتيلات",
+    "serbet":"الشربات",
+    "fresh_juice":"العصائر",
+    "iced_tea_and_coffee":"القهوة والشاي المثلجة",
+    "mevlana_shak":"المشروبات المثلجة والسموزي",
+    "soft_drink":"المشروبات الغازية",
+    "dessert":"الحلويات",
+    "shisha":"شيشة",
+    "classic_shisha":"كلاسك شيشة",
+    "premium_shisha":"بريميم شيشة",
+    "natural_shisha":"طبيعي شيشة",
+    "Baklawa":"بقلاوة",
+    "fill_all_feild":"املأ كل الحقول",
+    "save_the_card_to_the_gallery":"احفظ البطاقة في معرض الصور",
+    "table_no":"رقم الطاولة",
+    "date_of_reservation":"تاريخ الحجز",
+    "are_you_sure":"هل أنت متأكد أنك تريد حذف؟",
+    "search_by_phone_number":"ابحث عن طريق رقم الهاتف",
+    "new_reservation":"حجز جديد",
+    "a_reservation_request_was_made_for_a_table":"تم تقديم طلب حجز على طاولة",
+    "the_table_has_not_been_reserved":"لم يتم حجز الطاولة",
+    "sorry_all_tables_have_been_reserved":"جميع الطاولات تم حجزها",
+    "sorry":" نعتذر من",
+    "confirme":"تم تثبيت حجزك في تاريخ ",
+    "new_reservations":"الحجوزات الجديده",
+    "search":"بحث",
+    "pinned_reservations":"الحجوزات المثبتة",
+    "archive":"أرشيف",
+    "reserve_now":"حجز الان",
+    "hour":"ساعة",
+    "minute":"دقيقة",
+    "here":"هنا"
+
+
+
+
+    
+
+
+
+
+
+
+
+}
+

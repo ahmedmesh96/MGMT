@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCbHG-Mo2CppTBfEDrmWsPv7_OYqXle3Fk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>601384697415</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mgmt</string>
+	<key>PROJECT_ID</key>
+	<string>konya-restaurant-reservation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>konya-restaurant-reservation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:601384697415:ios:67bf8929ffb5901f743b62</string>
+	<key>DATABASE_URL</key>
+	<string>https://konya-restaurant-reservation-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

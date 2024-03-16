@@ -1,0 +1,91 @@
+{
+    "write_your_fullname":"ناوی تەواوی خۆت بنووسە",
+    "write_your_phonenumber":"ژمارەی تەلەفۆنەکەت بنووسە",
+    "write_your_email":"ئیمەیڵەکەت بنووسە",
+    "personal_information":"زانیاری کەسی",
+    "reservation_information":"زانیاری حجزکردن",
+    "reservation_occasion":"بۆنەی حجزکردن",
+    "birthday":"ڕۆژی لەدایک بوون",
+    "graduation_event":"بۆنەی دەرچوون",
+    "marriage":"هاوسەرگیری",
+    "engagement":"بەشداری کردن",
+    "birth":"لەدایک بوون",
+    "Receive_position":"پۆستێک وەربگرە",
+    "Other":"ئی تر",
+    "pick_your_time":"کاتەکەت هەڵبژێرە!",
+    "am":"AM",
+    "pm":"PM",
+    "how_many_guests":"چەند میوان؟",
+    "any_special_requests":"هەر داواکارییەکی تایبەت",
+    "late":"ئەگەر لە حجزکردن دواکەوتیت، حجزکردنەکەت بە شێوەیەکی ئۆتۆماتیکی هەڵدەوەشێتەوە",
+    "book_a_table":"مێزێک حجز بکە",
+    "thanks":"بەم زووانە کارتی حجزکردنت بۆ دەنێردرێت",
+    "visit_us":"Visit Us",
+    "location":"شوێنەکە",
+    "location_address":"گوندی دیجلە, بەغداد,\n10075 عێراق",
+    "reserve_a_table":"مێزێک حجز بکە",
+    "menus":"مینیوەکان",
+    "cold_appetizers": "پێشبڕکێی سارد",
+    "morning_breakfast": "نانی بەیانی بەیانیان",
+    "salads": "زەڵاتەکان",
+    "hot_apetizers": "پێشبڕکێی گەرم",
+    "soups": "شۆرباکان",
+    "turkish_pide": "تورکی پیدە",
+    "our_signature": "واژۆی ئێمە",
+    "durum":"Dürüm",
+    "turkish_grill": "گریل تورکی",
+    "side_dishes": "خواردنی لاوەکی",
+    "diet_food": "خۆراکی ڕێجیم",
+    "hot_beverages": "خواردنەوە گەرمەکان",
+    "hot_tea": "چای گەرم",
+    "hot_coffee": "قاوەی گەرم",
+    "cold_beverages": "خواردنەوە ساردەکان",
+    "cocktails": "کۆکتێل",
+    "serbet": "Şerbet",
+    "fresh_juice":  "شەربەتی تازە",
+    "iced_tea_and_coffee": "چای سەهۆڵاوی و قاوە",
+    "mevlana_shak": "Mevlana Shak",
+    "soft_drink": "خواردنەوە گازییەکان",
+    "dessert": "شیرینی",
+    "shisha": "شیشا",
+    "classic_shisha": "شیشا کلاسیک",
+    "premium_shisha": "پریمیۆم شیشا",
+    "natural_shisha": "شیشا سروشتی",
+    "Baklawa": "باکڵاوە",
+    "fill_all_feild":"هەموو بوارەکان پڕ بکەرەوە",
+    "save_the_card_to_the_gallery":"کارتەکە لە گەلەری وێنەکاندا هەڵبگرە",
+    "table_no":"ژمارەی خشتەکان",
+    "date_of_reservation":"ڕۆژی حجزکردن",
+    "are_you_sure":"دڵنیای کە دەتەوێت بیسڕیتەوە؟",
+    "search_by_phone_number":"بە ژمارەی تەلەفۆن بگەڕێ",
+    "new_reservation":"حجزکردنی نوێ",
+    "a_reservation_request_was_made_for_a_table":"نوێ داواکاری حجزکردن بۆ مێزێک کرا",
+    "the_table_has_not_been_reserved":"خشتەکە تەرخان نەکراوە",
+    "sorry_all_tables_have_been_reserved":"هەموو مێزەکان تەرخانکراون",
+    "sorry":"داوای لێبوردنمان لێدەکەین  ",
+    "confirme":"حجزکردنەکەت لە بەروارێکدا جێگیر کراوە ",
+    "new_reservations":"حجزکردنی نوێ",
+    "search":"بەدوایدا بگەڕێ",
+    "pinned_reservations":"حجزکردنی پێن کراو",
+    "archive":"ئەرشیف",
+    "reserve_now":"ئێستا جێگا حجز بکە",
+    "hour":"کاتژمێر",
+    "minute":"خولەک",
+    "here":"لێرە"
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+}

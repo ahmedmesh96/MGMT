@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "601384697415",
+    "firebase_url": "https://konya-restaurant-reservation-default-rtdb.firebaseio.com",
+    "project_id": "konya-restaurant-reservation",
+    "storage_bucket": "konya-restaurant-reservation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601384697415:android:e26ec0f78848970d743b62",
+        "android_client_info": {
+          "package_name": "com.example.konya_reservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-eVIk_BOuiuDh4ZUBfsYWEUgpRZR9sAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601384697415:android:e26ec0f78848970d743b62",
+        "android_client_info": {
+          "package_name": "com.example.mgmt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-eVIk_BOuiuDh4ZUBfsYWEUgpRZR9sAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
